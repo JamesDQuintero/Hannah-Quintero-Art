@@ -1,6 +1,6 @@
 # Hannah Quintero Art
 
-Welcome to the official portfolio website of Hannah Quintero Art. This website showcases a curated selection of art pieces, products, and includes a gallery and a blog.
+Welcome a sample portfolio website of Hannah Quintero Art. This website showcases a curated selection of art pieces, products, and includes a gallery and a blog.
 
 ## Description
 
@@ -15,8 +15,7 @@ Hannah Quintero Art is a personal portfolio website designed to display and sell
 
 ## Installation
 
-This website is hosted online and requires no installation. To view the website, simply visit [www.hannahquinteroart.com](http://www.hannahquinteroart.com).
-
+This website is hosted online and requires no installation. To view the website, simply visit [linktr.ee/hannahquinteroart](https://linktr.ee/hannahquinteroart).
 ## Usage
 
 - Browse through the portfolio to view various artworks.
@@ -26,7 +25,7 @@ This website is hosted online and requires no installation. To view the website,
 
 ## Contact
 
-For inquiries, commissions, or collaborations, please contact Hannah Quintero at [contact@hannahquinteroart.com](mailto:contact@hannahquinteroart.com).
+For inquiries, commissions, or collaborations, please contact Hannah Quintero at [hannahquinteroart@gmail.com](mailto:hannahquinteroart@gmail.com).
 
 ## License
 
