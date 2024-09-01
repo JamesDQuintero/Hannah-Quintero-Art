@@ -15,7 +15,7 @@ Hannah Quintero Art is a personal portfolio website designed to display and sell
 
 ## Installation
 
-This website is hosted online and requires no installation. To view the website, simply visit [github.com/JamesDQuintero/Hannah-Quintero-Art/] (https://github.com/JamesDQuintero/Hannah-Quintero-Art/).
+This website is hosted online and requires no installation. To view the website, simply visit [github.com/JamesDQuintero/Hannah-Quintero-Art/](https://github.com/JamesDQuintero/Hannah-Quintero-Art/).
 ## Usage
 
 - Browse through the portfolio to view various artworks.
