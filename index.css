@@ -98,13 +98,12 @@ a:hover {
 body{
 	background-image: url("images/background2.jpg");
     position: relative;
-    background-attachment: center;
+    background-attachment: fixed;
     background-size: cover;
 	background-repeat: no-repeat;
     padding: 0;
 	border-radius: 0;
 	color: grey;
-	width:960px;
 	margin: 0;	
 	opacity: .9;
 	font-family: bookman old style, serif;
