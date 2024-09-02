@@ -101,16 +101,13 @@ body{
     background-attachment: center;
     background-size: cover;
 	background-repeat: no-repeat;
-    padding: 2rem;
+    padding: 0;
 	border-radius: 0;
 	color: grey;
 	width:960px;
-	margin: auto;	
+	margin: 0;	
 	opacity: .9;
 	font-family: bookman old style, serif;
-
-}
-
 
 }
 
