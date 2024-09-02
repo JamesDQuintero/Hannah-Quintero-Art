@@ -181,3 +181,7 @@ figure{
   border-radius: 0 0 0 0;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
