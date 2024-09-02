@@ -20,24 +20,32 @@ footer{
       		font-weight: 400;
       }
 
-.contact{
-	font-size: 20px;
-	font-weight: 700;
-	color: white;
-  width: 25%;
-
-
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
-.welcome{
-  background-color: coral;
-  font-size: 15px;
-  color: black;
-  width: 60%;
-  float:right;
-  text-align: center;
-  padding: 25px
+.contact {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    width: 25%;
+    background-color: darkblue;
+    padding: 25px;
+    box-sizing: border-box;
+    text-align: center;
+}
 
+.welcome {
+    background-color: coral;
+    font-size: 15px;
+    color: black;
+    width: 60%;
+    padding: 25px;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 .fa {
