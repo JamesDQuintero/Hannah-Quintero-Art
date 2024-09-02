@@ -1,0 +1,188 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("images/background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    color: grey;
+    font-size: 1rem;
+    font-family: "bookman old style", serif;
+    opacity: 0.9;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: orchid;
+    padding: 10px;
+    color: white;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 4vw;
+}
+
+blockquote,
+footer {
+    text-align: center;
+}
+
+footer {
+    font-size: 11px;
+    font-weight: 400;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.con_wel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 5px;
+}
+
+.contact,
+.welcome {
+    width: 46%;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+.contact {
+    background-color: rgb(53, 50, 50);
+    color: white;
+}
+
+.welcome {
+    background-color: coral;
+    color: black;
+    font-size: 20px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25%;
+}
+
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.fa-instagram {
+    background: saddlebrown;
+    color: white;
+}
+
+a:link,
+a:visited {
+    color: aqua;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.nav a {
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: #555555;
+    color: black;
+}
+
+.nav a.active {
+    background-color: orchid;
+    color: white;
+}
+
+.bg,
+.aboutblog,
+.simple-subscription-form {
+    background-color: mistyrose;
+    padding: 2rem;
+}
+
+#gallery_blog,
+.blog {
+    background-color: #333333;
+    color: white;
+    padding: 2rem;
+    margin: 0;
+    font-family: "bookman old style", serif;
+}
+
+.blog {
+    width: 70%;
+}
+
+.aboutblog {
+    text-align: center;
+    float: right;
+    width: 20%;
+    padding: 10px;
+}
+
+#more {
+    display: none;
+}
+
+figure {
+    display: inline-block;
+    text-align: center;
+}
+
+.bio,
+.about {
+    float: left;
+    padding: 10px;
+}
+
+.simple-subscription-form {
+    color: black;
+    font-size: 1.15rem;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .con_wel {
+        flex-direction: column;
+    }
+
+    .welcome,
+    .contact,
+    .aboutblog,
+    .blog {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
